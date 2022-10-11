@@ -219,9 +219,9 @@ communications that will inadvertently create an open terrestrial 5G mesh networ
 Entrepreneurs would be asked to manufacture IOT devices locally and would be
 compensated by ReTree Forest bids and open quotes.
 
-# Software
+# Software and Code
 IOT based Distributed Ledger System. Though IOT and blockchain is resource constrained Zisuz
-Labs LLC foresee a possible IP based revenue for scaling ReTree Forest in GREEN,
+Labs LLC foresee a possible IP based revenue for scaling ReTree Forest in GREEN BLOCKCHAIN,
 TRILLION and 5G Blockchain implementation.
 
 Terrestrial 5G Mesh network and devices. Open RF based simple mesh networking
