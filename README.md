@@ -116,7 +116,7 @@ accountability, autonomy and adherence.
 The policy has a mandate in any fiscal, physical, financial, distributed or technical
 aspect in its charter co-authored by WEF.
 
-#Obstacles
+# Obstacles
 The charter of this mandatory policy framework is very simple Re-Tree Forest with
 each automobile sale and every gallon of petrochemical refined. An individual in a
 college dorm or an entrepreneur or parties with a budget can develop the system from
@@ -141,7 +141,7 @@ shrub or crop that is cultivated from human occupation for food or consumption. 
 the dollar or a euro this tree deemed valuable worth saving, not to be cut or burned or
 sabotaged, that would devalue the tree, effort, policy or system as whole.
 
-#Technical Details
+# Technical Details
 A distributed digital system will monitor each complex transaction as they occur, record
 and initiate processes leading up to Re-Tree Forest.
 
@@ -150,6 +150,7 @@ refined at any stage with an obligation to plant a specific number of trees in l
 production or distribution. Similar to any transaction economic or otherwise where
 balance is maintained from equal give and take, the parties involved in transport, oil,
 land or consumer by any means have to close open bids (plant trees) at each step.
+
 A QR based technology monitor is attached to the sapling It reminds the system if the
 end result is met in full compliance to this policy framework or not. It will monitor
 initiation, growth or loss of each individual tree till the lifespan of vehicle, oil, owner
@@ -178,26 +179,27 @@ for their specific region.
 Initially those funds would appear from Petrochemical Industry sponsorship at the
 beginning of seeding ReTree Forest DLT.
 
-Later the funds will be generated from revenues of successful ICO at a Zisuz Labs LLC
+Later the funds will be generated from revenues of successful ICO at a RTF
 sponsored global event or ReTree Forest DLT system managed implementation region
 geographically.
 
-#Industry and Market Risks
+Proceeds from Such a Sale would be donated in part or full to Isha Foundation for many volunteering activities or expansion it undertakes.
+
+# Industry and Market Risks
 REDD+ and several hedge fund managers would compete with ReTree Forest
-System. If Zisuz Labs LLC can manage competition or potential sales from our
+System. If RTF can manage competition or potential sales from our
 technology stack after development and rollout is foreseen.
 
 Failure to implement a system at dealers or land owners bidding for trees at the
-inception would need a serious marketing budget. Zisuz Labs LLC would mitigate
+inception would need a serious marketing budget. RTF would mitigate
 those risks with industry partnerships or government credits from state sponsored
 environment regulations.
 
-A competition offering a similar product would come up. We would try to mitigate this by
-offering a DLT-IOT based design which is Zero Fees based and profitable. Marketing
+We are offering a DLT-IOT based design which is Zero Fees based and profitable. Marketing
 would be difficult at initial stages but Open Source and Interoperability salient features
 would help during initial rollout phases.
 
-#Hardware
+# Hardware
 A QR based technology monitor is attached to the sapling It reminds the system if the
 end result is met in full compliance to this policy framework or not. It will monitor
 initiation, growth or loss of each individual tree till the lifespan of vehicle, oil, owner
@@ -217,10 +219,13 @@ communications that will inadvertently create an open terrestrial 5G mesh networ
 Entrepreneurs would be asked to manufacture IOT devices locally and would be
 compensated by ReTree Forest bids and open quotes.
 
-#Software
-IOT based Distributed Ledger System. Though IOT is quantity constrained Zisuz
+# Software
+IOT based Distributed Ledger System. Though IOT and blockchain is resource constrained Zisuz
 Labs LLC foresee a possible IP based revenue for scaling ReTree Forest in GREEN,
 TRILLION and 5G Blockchain implementation.
 
 Terrestrial 5G Mesh network and devices. Open RF based simple mesh networking
-design.
+design. 
+
+# Utility Patent
+TK
