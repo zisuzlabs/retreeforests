@@ -8,7 +8,7 @@ The statistical innovation uses state of the art technologies to address the cha
 
 **All Rights Reserved(c) Patent Protected
 
-(Statistical Model Anylogic)[https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS]
+(Statistical Model Anylogic)[https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00]
 
 <iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS">
 </iframe>
