@@ -231,6 +231,10 @@ design.
 TK
 
 # Statistical Analysis Model Anylogic
+
+(https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS)
+---------------
+
 <iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=4dd4593f-06e5-4e54-add9-89a2f30a6a00">
 </iframe>
 
