@@ -3,7 +3,7 @@ ReTree Forest is an IOT based Distributed Ledger System which implements policy 
 
 Inspired by Sadhguru a great mystic and founder of Isha Foundation Coimbatore, Zisuz Labs, LLC. has opensourced its USPTO dissertation 
 ReTree Forests, for helping volunteering Sadhguru teachings and unparalled work in sustaining biodiversity in India and abroad. As we know
-Sadhguru is Emeritus World Economic Forum and his unbridalled mysticism is world renouned. 
+Sadhguru is Emeritus World Economic Forum and his unbridled mysticism is world renowned. 
 
 Recent cloudless tsunami and aftermath as flood in Sindh with millions destroyed, displaced and many dead has proved that our Himalayas despite 
 desolate, destitute and despicable has immense power to change the lives of many civilizations. As evident in Ian recently the weather reports and 
