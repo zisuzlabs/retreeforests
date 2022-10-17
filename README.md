@@ -228,7 +228,7 @@ Terrestrial 5G Mesh network and devices. Open RF based simple mesh networking
 design. 
 
 # Utility Patent
-![Filed USPTO Patent ReTree Forests](https://zisuzlabs.github.io/retreeforests/FiledPatentUtil.pdf)
+[Filed USPTO Patent ReTree Forests](https://zisuzlabs.github.io/retreeforests/FiledPatentUtil.pdf)
 
 # Statistical Analysis Model Anylogic
 
