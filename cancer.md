@@ -4,6 +4,16 @@
 
 According to National Cancer Institute website
 
+Cancer is a genetic disease—that is, it is caused by changes to genes that control the way our cells function, especially how they grow and divide.
+
+Genetic changes that cause cancer can happen because:
+
+- of errors that occur as cells divide. 
+- of damage to DNA caused by harmful substances in the environment, such as the chemicals in tobacco smoke and ultraviolet rays from the sun. 
+- they were inherited from our parents. 
+- 
+The body normally eliminates cells with damaged DNA before they turn cancerous. But the body’s ability to do so goes down as we age. This is part of the reason why there is a higher risk of cancer later in life.
+
 There were 463,675 new cancer cases estimated to be in Arab countries, corresponding to 2.4% of the global incidence. 
 Females' cancers accounted for 52.9% of that number, compared with 47.8% worldwide. 
 The ASIR for Arab females was 137.7/100,000, compared with the 186/100,000 population rate of WFCs.
