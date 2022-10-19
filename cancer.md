@@ -67,8 +67,13 @@ Though as NCI has said it should be true but can they explain how Africa has low
 jumping on to begin curing or finding a cure. May be it will lead to the cure as COVID-19 scientists advent-ed track, trace or secure.**
 
 
+---
+## References
 
-References
-[ASCO](https://ascopubs.org/doi/full/10.1200/GO.21.00415#:~:text=There%20were%20463%2C675%20new%20cancer,100%2C000%20population%20rate%20of%20WFCs)
+[NCI] (https://www.cancer.gov)
 
-[Google Colab] (https://colab.research.google.com/drive/15nHl8kF9BeyF4wtR3i3W4CJ-fkzl91xH?usp=sharing)
+[ASCO]  (https://ascopubs.org/doi/full/10.1200/GO.21.00415#:~:text=There%20were%20463%2C675%20new%20cancer,100%2C000%20population%20rate%20of%20WFCs)
+
+[NCIs Data] (https://www.cancer.gov/about-nci/budget/fact-book/data/program-structure)
+
+[Elon Predicts Google Colab Page] (https://colab.research.google.com/drive/15nHl8kF9BeyF4wtR3i3W4CJ-fkzl91xH?usp=sharing)
