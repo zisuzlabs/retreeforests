@@ -260,4 +260,4 @@ design.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 # Rejection Letters (Hall of Shame) Us + them too
-- We hope this note finds you well, and thank you for sharing your Climate tech-related business opportunity with us. We have studied the details of your company and discussed it internally. Unfortunately, we will not be able to proceed with it as it is not a fit for us at this stage. We wish you all the best going forward. The Catamaran Team (Such a shame, do them a favor and always regret later. Feedback should be Open and Bi-directional)
+- We hope this note finds you well, and thank you for sharing your Climate tech-related business opportunity with us. We have studied the details of your company and discussed it internally. Unfortunately, we will not be able to proceed with it as it is not a fit for us at this stage. We wish you all the best going forward. The Catamaran Team (Such a shame, do them a favor and always regret later. Believe feedback should be Open and Bi-directional)
