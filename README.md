@@ -1,9 +1,9 @@
 # ReTree Forests
+[![Presentation](https://img.youtube.com/vi/7GAsWFCgL9Y/0.jpg)](https://www.youtube.com/watch?v=7GAsWFCgL9Y)
+
 ReTree Forest is an IOT based Distributed Ledger System which implements policy inspired by Emeritus WEF Sadhguru and Isha Foundation.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
-
-[![Presentation](https://img.youtube.com/vi/7GAsWFCgL9Y/0.jpg)](https://www.youtube.com/watch?v=7GAsWFCgL9Y)
 
 Inspired by Sadhguru a great mystic and founder of Isha Foundation Coimbatore, Zisuz Labs, LLC. has opensourced its USPTO dissertation 
 ReTree Forests, for helping volunteering Sadhguru teachings and unparalled work in sustaining biodiversity in India and abroad. As we know
