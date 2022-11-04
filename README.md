@@ -196,6 +196,8 @@ geographically.
 
 Proceeds from Such a Sale would be donated in part or full to Isha Foundation for many volunteering activities or expansion it undertakes.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
+
 # Industry and Market Risks
 REDD+ and several hedge fund managers would compete with ReTree Forest
 System. If RTF can manage competition or potential sales from our
@@ -229,6 +231,8 @@ The IOT devices monitoring trees planted will have transmission and receive radi
 communications that will inadvertently create an open terrestrial 5G mesh network.
 Entrepreneurs would be asked to manufacture IOT devices locally and would be
 compensated by ReTree Forest bids and open quotes.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 # Software and Code
 IOT based Distributed Ledger System. Though IOT and blockchain is resource constrained Zisuz
