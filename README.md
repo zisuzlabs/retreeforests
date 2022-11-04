@@ -1,6 +1,8 @@
 # ReTree Forests
 ReTree Forest is an IOT based Distributed Ledger System which implements policy inspired by Emeritus WEF Sadhguru and Isha Foundation.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
+
 Inspired by Sadhguru a great mystic and founder of Isha Foundation Coimbatore, Zisuz Labs, LLC. has opensourced its USPTO dissertation 
 ReTree Forests, for helping volunteering Sadhguru teachings and unparalled work in sustaining biodiversity in India and abroad. As we know
 Sadhguru is Emeritus World Economic Forum and his unbridled mysticism is world renowned. 
@@ -8,6 +10,7 @@ Sadhguru is Emeritus World Economic Forum and his unbridled mysticism is world r
 Recent cloudless tsunami and aftermath as flood in Sindh with millions destroyed, displaced and many dead has proved that our Himalayas despite 
 desolate, destitute and despicable has immense power to change the lives of many civilizations. As evident in Ian recently the weather reports and 
 pressure sytems in Arabian Sea were quite opposite for a month or two. Weather events are pretty natural as we saw in Japan Phillipines and currently Mexico. 
+
 In one of the episodes in BBC Sherlock Holmes featuring Cumberbatch has a scene where an actor is running along the woods and bullets are being fired. 
 The actor is safe despite life threatening situation because trees are taking the brunt. This scene was truly remarkable apart from the scene 
 where Cumberbatch unlocks the mobile phone. Point being trees though harbouring rains would at the same time would save from the devastation as its aftermath. Himalayas can be destitute or desolate but has the bandwith of some more trees.
@@ -28,9 +31,13 @@ ReTree Forest policy is based on a mixture of technical excellence and clear com
 strive to deliver an individual, innovative and affordable planning infrastructure to follow it through with an outstanding delivery which is both
 profitable and open source.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
+
 ---
 
 ReTree Forest is global, open, replicable and community-driven. It is designed to have zero transaction fees and be super fast. It has a very low memory footprint.
+
+
 
 # Project Overview
 Re-Tree Forest with each automobile sale and every gallon of petrochemical refined is a policy guidelines for the Transportation sector. Petrochemical producers/refiners and consumers are also stakeholders in this policy. The idea is to implement a framework to measure every unit of car sold or gas refined on a daily basis, update a distributed ledger and open bids for plantation of trees.
@@ -240,4 +247,4 @@ design.
 
 # Old Presentation
 ## REDD+ Competition.pdf
-(unfunded)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
