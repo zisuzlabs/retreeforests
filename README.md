@@ -90,6 +90,8 @@ private land owned by an entrepreneur affiliated with the ReTree Forest system. 
 be government owned land outsourcing private tree growers or car dealer's allied
 partner bidding transactional implementation privately or through a system.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
+
 # Distributed systems & ledger
 The policy mandated sales and commissioning of reforesting trees with the help of
 partner entities in transport, private and petrochemical sectors including public
@@ -147,6 +149,8 @@ height, growth and importance to culture and region. Tree can be anything except
 shrub or crop that is cultivated from human occupation for food or consumption. As like
 the dollar or a euro this tree deemed valuable worth saving, not to be cut or burned or
 sabotaged, that would devalue the tree, effort, policy or system as whole.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 # Technical Details
 A distributed digital system will monitor each complex transaction as they occur, record
@@ -233,6 +237,8 @@ TRILLION and 5G Blockchain implementation.
 
 Terrestrial 5G Mesh network and devices. Open RF based simple mesh networking
 design. 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 # Utility Patent
 [Filed USPTO Patent ReTree Forests](https://zisuzlabs.github.io/retreeforests/FiledPatentUtil.pdf)
