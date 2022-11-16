@@ -1,6 +1,8 @@
 # ReTree Forests
 ReTree Forest is an IOT based Distributed Ledger System which implements policy inspired by Emeritus WEF Sadhguru and Isha Foundation.
 
+## Net Zero by 2030 with just $10K. Way cheaper than one SKU of Cheapest Tesla! No Marketing Gimmicks No COP Promises Open-Source Community Driven even You can hack your own.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 [![Presentation](https://img.youtube.com/vi/7GAsWFCgL9Y/0.jpg)](https://www.youtube.com/watch?v=7GAsWFCgL9Y)
