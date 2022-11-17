@@ -2,11 +2,10 @@
 ReTree Forest is an IOT based Distributed Ledger System which implements policy inspired by Emeritus WEF Sadhguru and Isha Foundation.
 
 ## Net Zero by 2030 with just $10K. 
-Coal will be burnt because it produces metal, Cars will run couple of miles in few gallons, Sun will shine not in the Night, right!
+Net Zero by 2030 is possible with just $10,000. Coal will be burnt because it produces metal, cars will run a couple of miles on a few gallons, and the sun will shine during the day, not at night! 
+No marketing gimmicks, no COP promises, open-source forever, community driven--even you can build on your own. 
 
-No Marketing Gimmicks No COP Promises Open-Source forever Community Driven even You can build on your own. 
-
-Way cheaper than one SKU of Cheapest Tesla! So what are you waiting for? Govt Dole, funny, LOL!!
+Way cheaper than one SKU of the cheapest Tesla! So what are you waiting for? Govt Dole is funny, LOL!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
