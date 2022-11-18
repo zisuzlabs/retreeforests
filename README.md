@@ -240,6 +240,17 @@ communications that will inadvertently create an open terrestrial 5G mesh networ
 Entrepreneurs would be asked to manufacture IOT devices locally and would be
 compensated by ReTree Forest bids and open quotes.
 
+As mentioned in the patent readily available IoT devices has been designed on FreeRTOS Architecture 
+readily available to all electric engineers. With OpenAI API our inhouse indesigned SOC are scalable 
+with 100 analog and digital parameters like humidity temperature, communication, 5G, on device blockchain processing.
+
+AARCH64 or CUDA or x86_64 chips can be costly but upcoming Vedanta based Semiconductor Fabrication in India 
+can help us in this regard. We can opensource our SOC design and business use case (Green Blockchain) to
+meet Raspberry Computers success and emulate low cost computing demand from our entrepreneurs and service providers.
+Anil Vendanta Semiconductors are setup with a goal on Defence Contract manufacturing but hey a little hedging can
+spruce some extra "mid-afternoon/lazy" income from niche consumer driven demand.
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 # Software and Code
