@@ -248,7 +248,7 @@ AARCH64 or CUDA or x86_64 chips can be costly but upcoming Vedanta based Semicon
 can help us in this regard. We can opensource our SOC design and business use case (Green Blockchain) to
 meet Raspberry Computers success and emulate low cost computing demand from our entrepreneurs and service providers.
 Anil Vendanta Semiconductors are setup with a goal on Defence Contract manufacturing but hey a little hedging can
-spruce some extra "mid-afternoon/lazy" income from niche consumer driven demand.
+spruce their extra "mid-afternoon/lazy" income from niche consumer driven demand.
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
