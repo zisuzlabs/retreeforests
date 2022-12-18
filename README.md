@@ -5,11 +5,11 @@ ReTree Forest is an IOT based Distributed Ledger System which implements policy 
 Net Zero by 2030 is possible with just $10,000. Coal will be burnt because it produces metal, cars will run a couple of miles on a few gallons, and the sun will shine during the day, not at night! 
 No marketing gimmicks, no COP promises, open-source forever, community driven--even you can build on your own in your town. Not Made in Bahamas!
 
-Way cheaper than one SKU of the cheapest Tesla! So what are you waiting for? Govt Dole is funny, LOL!
+Way cheaper than one SKU of the cheapest Tesla! So what are you waiting for? 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
-[![Presentation](https://img.youtube.com/vi/7GAsWFCgL9Y/0.jpg)](https://www.youtube.com/watch?v=7GAsWFCgL9Y)
+[![Presentation](https://github.com/zisuzlabs/retreeforests/blob/main/Buttonwood%20Agreement%20Deck%20.pdf)](https://github.com/zisuzlabs/retreeforests/blob/main/Buttonwood%20Agreement%20Deck%20.pdf)
 
 Inspired by Sadhguru a great mystic and founder of Isha Foundation Coimbatore, Zisuz Labs, LLC. has opensourced its USPTO dissertation 
 ReTree Forests, for helping volunteering Sadhguru teachings and unparalled work in sustaining biodiversity in India and abroad. As we know
