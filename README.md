@@ -9,7 +9,7 @@ Way cheaper than one SKU of the cheapest Tesla! So what are you waiting for?
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
-[![Presentation](https://github.com/zisuzlabs/retreeforests/blob/main/Crouching%20Tiger.png)](https://github.com/zisuzlabs/retreeforests/blob/main/Buttonwood%20Agreement%20Deck%20.pdf)
+[![Presentation](https://zisuzlabs.github.io/retreeforests/Crouching%20Tiger.png)](https://github.com/zisuzlabs/retreeforests/blob/main/Buttonwood%20Agreement%20Deck%20.pdf)
 
 Inspired by Sadhguru a great mystic and founder of Isha Foundation Coimbatore, Zisuz Labs, LLC. has opensourced its USPTO dissertation 
 ReTree Forests, for helping volunteering Sadhguru teachings and unparalled work in sustaining biodiversity in India and abroad. As we know
