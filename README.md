@@ -1,19 +1,14 @@
 # ReTree Forests (aka Green Blockchain)
-ReTree Forest is an IOT based Distributed Ledger System which implements policy inspired by Emeritus WEF Sadhguru and Isha Foundation.
+Based on an original USPTO patent pending dissertation, Green Blockchain is an ambitious project that require changes in various areas such as energy, transportation, and industry, released for free under the Creative Commons Attribution 4.0 license, in the aftermath of Sindh floods!
 
-## Net Zero by 2030 with just $10K. 
-Net Zero by 2030 is possible with just $10,000. Coal will be burnt because it produces metal, cars will run a couple of miles on a few gallons, and the sun will shine during the day, not at night! 
-No marketing gimmicks, no COP promises, open-source forever, community driven--even you can build on your own in your town. Not Made in Bahamas!
+## Net Zero by 2030. 
+BUILDING AN AI-ENABLED ASSET-BACKED DECENTRALIZED AUTONOMOUS CORPORATION FOR NET-ZERO BY 2030.
 
-Way cheaper than one SKU of the cheapest Tesla! So what are you waiting for? 
+Based on an original USPTO patent pending dissertation, Green Blockchain is an ambitious project that require changes in various areas such as energy, transportation, and industry, released for free under the Creative Commons Attribution 4.0 license, in the aftermath of Sindh floods!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 [![Presentation](https://zisuzlabs.github.io/retreeforests/Crouching%20Tiger.png)](https://zisuzlabs.github.io/retreeforests/Buttonwood%20Agreement%20Deck%20.pdf)
-
-Inspired by Sadhguru a great mystic and founder of Isha Foundation Coimbatore, Zisuz Labs, LLC. has opensourced its USPTO dissertation 
-ReTree Forests, for helping volunteering Sadhguru teachings and unparalled work in sustaining biodiversity in India and abroad. As we know
-Sadhguru is Emeritus World Economic Forum and his unbridled mysticism is world renowned. 
 
 Recent cloudless tsunami and aftermath as flood in Sindh with millions destroyed, displaced and many dead has proved that our Himalayas despite 
 desolate, destitute and despicable has immense power to change the lives of many civilizations. As evident in Ian recently the weather reports and 
