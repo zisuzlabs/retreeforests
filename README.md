@@ -20,12 +20,7 @@ where Cumberbatch unlocks the mobile phone. Point being trees though harbouring 
 
 We are aware that in 2020 fifteen hundred billion (1500 Billion USD) worth of machines(anything on wheels) were sold. Approx three hundred and 
 twenty nine trillion dollars (329 T) worth of crude was produced every day. According to WEF Davos World had 6 Trillion trees earlier and only 3 Trillion are left. We are losing 10 billion trees a year due to climate change pre Covid-19.
-
-His highness Sadhguru is an emeritus World Economic Forum and eloquently raises the issue of afforestation amid the sudden rise in consumption after 
-Industrial Revolution. His campaigns single handedly saved a river and its biodiveristy in South India, though he jokes about rise in traffic. Whether 
-its concrete jungle in New York or urban metropolises ghettos, life is increasingly unsustainable. Trees being a source of nourishment and mystic prana
-is losing battle everywhere. Govt of India has granted rivers as living entities but trees are still way beyond their status. Water can wash sins but figuratively living trees are sin resistant and harbinger of life. 
-
+ 
 After JC Bose crescograph scientists have never looked the species in the same way. In association with Sadhguru and his teachings this open source USPTO dissertation is a step towards sustainability and poverty eradication. South Asia led by India according to World Economic Forum is the most populous region filled with poverty stricken people. With one billionaire added She is adding millions in poverty with less than Rs 32 a day. Sanitation Water Logging and population growth are turning them into world class ghettos despite the growing capital and richness.
 
 ---
