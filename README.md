@@ -20,15 +20,15 @@ The system is projected to cost just $10,000, which is a fraction of the cost of
 
 ---
 
-ReTree Forest policy is based on a mixture of technical excellence and clear communication. Inspired by teachings of Sadhguru and Isha Foundation in general it is inclined to work under the very best to ensure the world receives an excellent solution. We know thatevery geography is unique and we '
-strive to deliver an individual, innovative and affordable planning infrastructure to follow it through with an outstanding delivery which is both
-profitable and open source.
+WE ARE DEVELOPING TOOLS TO HELP ORGANIZATIONS, GOVERNMENTS AND INDIVIDUALS OFFSET THEIR CARBON EMISSIONS WITH IOT ENABLED AFFORESTATION PROJECTS.
+
+We are raising seed stage angel investments to finance the building and maintenance of our distributed ledger system and associated technologies, such as IOT, 5G, and afforestation. These costs may include software development, hardware, personnel expenses, and hosting and data transfer fees if hosted on Cloud servers.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 ---
 
-ReTree Forest is global, open, replicable and community-driven. It is designed to have zero transaction fees and be super fast. It has a very low memory footprint.
+Green Blockchain, also known as "ReTree Forests," is a revolutionary new system that uses the power of the Internet of Things (IoT) and distributed ledger technology (DLT) to promote sustainability and combat climate change. 
 
 
 
