@@ -10,18 +10,13 @@ Based on an original USPTO patent pending dissertation, Green Blockchain is an a
 
 [![Presentation](https://zisuzlabs.github.io/retreeforests/Crouching%20Tiger.png)](https://zisuzlabs.github.io/retreeforests/Buttonwood%20Agreement%20Deck%20.pdf)
 
-Recent cloudless tsunami and aftermath as flood in Sindh with millions destroyed, displaced and many dead has proved that our Himalayas despite 
-desolate, destitute and despicable has immense power to change the lives of many civilizations. As evident in Ian recently the weather reports and 
-pressure sytems in Arabian Sea were quite opposite for a month or two. Weather events are pretty natural as we saw in Japan Phillipines and currently Mexico. 
+Climate change is one of the most pressing issues of our time, and it's clear that we need to take drastic action if we hope to mitigate its effects. One potential solution that has been gaining traction in recent years is the use of blockchain technology to promote sustainability and reduce our carbon footprint. This is where Green Blockchain comes in. 
 
-In one of the episodes in BBC Sherlock Holmes featuring Cumberbatch has a scene where an actor is running along the woods and bullets are being fired. 
-The actor is safe despite life threatening situation because trees are taking the brunt. This scene was truly remarkable apart from the scene 
-where Cumberbatch unlocks the mobile phone. Point being trees though harbouring rains would at the same time would save from the devastation as its aftermath. Himalayas can be destitute or desolate but has the bandwith of some more trees.
+Green Blockchain, also known as "ReTree Forests," is a revolutionary new system that uses the power of the Internet of Things (IoT) and distributed ledger technology (DLT) to promote sustainability and combat climate change. 
 
-We are aware that in 2020 fifteen hundred billion (1500 Billion USD) worth of machines(anything on wheels) were sold. Approx three hundred and 
-twenty nine trillion dollars (329 T) worth of crude was produced every day. According to WEF Davos World had 6 Trillion trees earlier and only 3 Trillion are left. We are losing 10 billion trees a year due to climate change pre Covid-19.
- 
-After JC Bose crescograph scientists have never looked the species in the same way. In association with Sadhguru and his teachings this open source USPTO dissertation is a step towards sustainability and poverty eradication. South Asia led by India according to World Economic Forum is the most populous region filled with poverty stricken people. With one billionaire added She is adding millions in poverty with less than Rs 32 a day. Sanitation Water Logging and population growth are turning them into world class ghettos despite the growing capital and richness.
+The beauty of Green Blockchain is that it is a decentralized system, which means that it is not controlled by any one individual or organization. Instead, it is a network of connected devices that work together to promote sustainability. This makes it incredibly efficient and effective, as it allows for real-time tracking and monitoring of progress. 
+
+The system is projected to cost just $10,000, which is a fraction of the cost of traditional reforestation efforts. This makes it an incredibly cost-effective solution for companies and individuals who want to make a difference.
 
 ---
 
