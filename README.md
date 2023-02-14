@@ -250,9 +250,13 @@ design.
 # Utility Patent
 [Filed USPTO Patent ReTree Forests](https://zisuzlabs.github.io/retreeforests/FiledPatentUtil.pdf)
 
-# Statistical Analysis Model Anylogic
+# Statistical Analysis Model
 
-[![Any Logic Siumlation](https://www.anylogic.com/local/templates/anylogic/i/anylogic-og.jpg)](https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS)
+
+<img src="https://www.anylogic.com/local/templates/anylogic/i/anylogic-og.jpg" alt="https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS" style="width:140px; height:46px;">
+
+(https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS)
+
 ---------------
 
 
