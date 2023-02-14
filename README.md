@@ -252,7 +252,7 @@ design.
 
 # Statistical Analysis Model Anylogic
 
-[![Any Logic Siumlation](https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS)](https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS)
+[![Any Logic Siumlation](https://www.anylogic.com/local/templates/anylogic/i/anylogic-og.jpg)](https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS)
 ---------------
 
 
