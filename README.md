@@ -229,8 +229,7 @@ As mentioned in the patent readily available IoT devices has been designed on Fr
 readily available to all electric engineers. With OpenAI API our inhouse indesigned SOC are scalable 
 with 100 analog and digital parameters like humidity temperature, communication, 5G, on device blockchain processing.
 
-AARCH64 or CUDA or x86_64 chips can be costly but upcoming Vedanta based Semiconductor Fabrication in India 
-can help us in this regard. We can opensource our SOC design and business use case (Green Blockchain) to
+AARCH64 or CUDA or x86_64 chips can be costly but upcoming RISC-V Silicon Fab can help in this regard. We can opensource our SOC design and business use case (Green Blockchain) to
 meet Raspberry Computers success and emulate low cost computing demand from our entrepreneurs and service providers.
 Anil Vendanta Semiconductors are setup with a goal on Defence Contract manufacturing but hey a little hedging can
 spruce their extra "mid-afternoon/lazy" income from niche consumer driven demand.
