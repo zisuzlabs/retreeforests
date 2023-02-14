@@ -257,6 +257,8 @@ design.
 
 (https://cloud.anylogic.com/model/4dd4593f-06e5-4e54-add9-89a2f30a6a00?mode=SETTINGS)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
+
 ---------------
 
 
