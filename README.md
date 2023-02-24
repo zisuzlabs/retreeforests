@@ -1,6 +1,8 @@
 # ReTree Forests (aka Green Blockchain)
 Based on an original USPTO patent pending dissertation, Green Blockchain is an ambitious project that require changes in various areas such as energy, transportation, and industry, released for free under the Creative Commons Attribution 4.0 license, in the aftermath of Sindh floods!
 
+#### Zisuz Labs, LLC welcome Dr Ajay Banga First Indo-American nominated WB Head. (Read more)(https://www.vccircle.com/uspresident-biden-names-general-atlantic-vice-chairman-ajay-banga-to-head-world-bank)
+
 ## Net Zero by 2030. 
 BUILDING AN AI-ENABLED ASSET-BACKED DECENTRALIZED AUTONOMOUS CORPORATION FOR NET-ZERO BY 2030.
 
