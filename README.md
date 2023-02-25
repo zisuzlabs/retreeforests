@@ -246,6 +246,22 @@ design.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
+# Oil is New Data
+Data is new Oil and Oil is new Data. It's the two sides of the same coin czars held according to Putin Principia. Putin as a KGB agent while Berlin Wall Fall felt that "One who controls Oil controls the Czars" Oil is the one commodity British invented (there are many gunpowder, tea, poppy seeds, engines,  coal, cancer, railways and ape theory) that makes the British empire carry the same torch it once held -- The Empire where The Sun never sets".
+
+Oil is the only commodity the prolific British invention everyone carries to this day and age.
+
+Oil is The New Data.
+
+At Zisuz Labs, LLC we believe Oil is the new Data. Whether it was felling four trees in Pakistan, floods in Sindh or Chinese Swine Flu, believe it or not, was in Zisuz Labs' agenda. 
+
+TO TURN THINGS AROUND SINCE RETURN FROM SINGAPORE (WHEN LKY WAS ALIVE)
+
+We have full suite of USPTO patents (#180907) that will make this world a better place to LIVE and not DIE amid war still selling oil here and there hence Oily Raj!
+
+In HIS reign there won't be any blood thirsty tigers reigning on flood sucking deer. Believe it or not Have the benefit of doubt; who has turned Butcher into Goat; turned Wuhan not Kashmir as the Noclues Flashpoint.
+
+
 # Utility Patent
 [Filed USPTO Patent ReTree Forests](https://zisuzlabs.github.io/retreeforests/FiledPatentUtil.pdf)
 
