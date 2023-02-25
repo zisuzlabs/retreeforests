@@ -261,6 +261,7 @@ We have full suite of USPTO patents (#180907) that will make this world a better
 
 In HIS reign there won't be any blood thirsty tigers reigning on flood sucking deer. Believe it or not Have the benefit of doubt; who has turned Butcher into Goat; turned Wuhan not Kashmir as the Noclues Flashpoint.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7G57DU)
 
 # Utility Patent
 [Filed USPTO Patent ReTree Forests](https://zisuzlabs.github.io/retreeforests/FiledPatentUtil.pdf)
